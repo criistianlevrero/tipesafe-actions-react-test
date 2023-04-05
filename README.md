@@ -1,2 +1,1 @@
-# tipesafe-actions-react-test
-Created with CodeSandbox
+# Typesafe-Actions Reference Project
